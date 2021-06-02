@@ -8,7 +8,7 @@
 * James Reeves 
 * Matt Houk
 
-[__Summarized Analysis is combined in the Main Analysis -  Data Together Jupyter Notebook__](https://github.com/matthouk/UWFinTechProjectOne/blob/main/Main%20Analysis%20-%20DataTogerther.ipynb)
+[__Summarized Analysis is combined in the Main Analysis -  Data Together Jupyter Notebook__](https://github.com/moniqueticzon/Best-ESG-ETFs-2020/blob/main/Main%20Analysis%20-%20DataTogether.ipynb)
 
 ## Comparing 5 ESG related funds to find out where the biggest bang for your environmental, social, and governmental buck is. 
 
@@ -30,7 +30,7 @@
     * FAN: Electric Utilities - 38.05%, Renewable Energy - 26.68%, Independent Power - 10.92%, Industrial Conglomerates - 7.21%, Multiline Utilities - 6.05%, Industrial Machines - 2.43%, Specialty Chemicals - 1.89%, Heavy Electrical Equipment - 1.74%, Diversified Trading - 1.58%, Construction and Equipment - 1.58%
     * SPY: Technology - 33.97%, Consumer Cyclicals - 14.39%, Healthcare - 13.35%, Financials - 12.76%, Industrials - 9.51%, Consumer Non-Cyc - 6.47%, Utilities - 2.88%, Basic Materials - 2.57%, Energy - 2.29%, Telecom - 1.80%
 
-- How are ESG funds rated and how ist he rating system used?
+- How are ESG funds rated and how is the rating system used?
     * MSCI ESG Rating range from best (AAA) to worst (CCC)
         * The funds were rated as follows:
         * FAN, ESGD, and EFAX = AA
