@@ -1,5 +1,5 @@
 # Clean Up Your Act, best ESG ETF's in 2020  
-![ ](ESGicon.png)
+![ ](Images/ESGicon.png)
 
 
 ## Analysis provided by: 
